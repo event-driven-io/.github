@@ -20,6 +20,6 @@ Join our [🧑‍💻 Discord server](https://discord.gg/fTpqUTMmVa) to discuss,
 
 ## Sponsorship
 
-🙏 If you used my tools, learned from my resources and would like to help me make my community work sustainable - a monthly contribution would mean A WHOLE LOT. GitHub stars and Nuget downloads don't pay the bills. Hopefully, with your support, I'll be continuing my community work and do it not only in overtime 😛
+🙏 If you used our tools, learned from our resources and would like to help me make our community work sustainable - a monthly contribution would mean A WHOLE LOT. GitHub stars and Nuget downloads don't pay the bills. Hopefully, with your support, I'll be continuing our community work and do it not only in overtime 😛
 
 You can support our work at [Github sponsors](https://github.com/sponsors/oskardudycz).

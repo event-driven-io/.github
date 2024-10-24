@@ -1,3 +1,5 @@
+[![](https://dcbadge.vercel.app/api/server/fTpqUTMmVa?style=flat)](https://discord.gg/fTpqUTMmVa) [![Github Sponsors](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&link=https://github.com/sponsors/oskardudycz/)](https://github.com/sponsors/oskardudycz/) [![blog](https://img.shields.io/badge/blog-event--driven.io-brightgreen)](https://event-driven.io/?utm_source=event_sourcing_nodejs)
+
 ## Welcome to Event-Driven.io
 
 Our goal is to help you build applications close to business. We aim to bring you tools and learning resources that help you focus on delivering value. Event-driven Architecture and Event Sourcing are good foundations for doing that. 

@@ -16,9 +16,9 @@ Try our projects and boost your applications:
 - 🐶 [Pongo - Mongo but on Postgres and with strong consistency benefits](https://github.com/event-driven-io/Pongo/)
 - 🐘 [Blümchen - Push-based Outbox for PostgreSQL](https://github.com/event-driven-io/Blumchen)
 
-Check [📚 Our Blog](https://event-driven.io/) for resources and learning materials on Event Sourcing, Event-Driven Architecture, and our tooling.
+**Check [📚 Our Blog](https://event-driven.io/)** for resources and learning materials on Event Sourcing, Event-Driven Architecture, and our tooling.
 
-Join our [🧑‍💻 Discord server](https://discord.gg/fTpqUTMmVa) to discuss, learn, and share your thoughts on the Event-Driven world and our tools.
+**Join our [🧑‍💻 Discord server](https://discord.gg/fTpqUTMmVa)** to discuss, learn, and share your thoughts on the Event-Driven world and our tools.
 
 ## Sponsorship
 
